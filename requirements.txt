@@ -1,0 +1,9 @@
+qiskit
+numpy
+matplotlib
+datetime
+pandas
+scipy
+qiskit_finance
+qiskit_aer
+openpyxl
