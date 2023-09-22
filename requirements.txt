@@ -7,3 +7,5 @@ scipy
 qiskit_finance
 qiskit_aer
 openpyxl
+scikit-learn
+statsmodels
