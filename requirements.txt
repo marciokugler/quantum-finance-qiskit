@@ -9,3 +9,4 @@ qiskit_aer
 openpyxl
 scikit-learn
 statsmodels
+seaborn
